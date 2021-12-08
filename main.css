@@ -15,3 +15,9 @@ body {
     font-weight: bold;
     text-align: center;
 }
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
