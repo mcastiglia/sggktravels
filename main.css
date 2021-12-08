@@ -6,6 +6,18 @@ body {
     color: green;
     background-color: black;
     text-align: center;
-    font-size: large;
+    font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    text-decoration: none;
+    text-decoration-color: honeydew;
+}
+
+.bold-header {
+    font-weight: bold;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
